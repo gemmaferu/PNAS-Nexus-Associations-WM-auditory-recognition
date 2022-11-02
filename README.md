@@ -2,7 +2,7 @@
 
 This repository provides the code for the following paper:
 
-Gemma Fernández-Rubio, Francesco Carlomagno, Peter Vuust, Morten L Kringelbach, Leonardo Bonetti, Associations between abstract working memory abilities and brain activity underlying long-term recognition of auditory sequences, PNAS Nexus, Volume 1, Issue 4, September 2022, pgac216, https://doi.org/10.1093/pnasnexus/pgac216
+Fernández-Rubio, G., Carlomagno, F., Vuust, P., Kringelbach, M. L., Bonetti, L. Associations between abstract working memory abilities and brain activity underlying long-term recognition of auditory sequences, PNAS Nexus, Volume 1, Issue 4, September 2022, pgac216, https://doi.org/10.1093/pnasnexus/pgac216
 
 Abstract:
 
