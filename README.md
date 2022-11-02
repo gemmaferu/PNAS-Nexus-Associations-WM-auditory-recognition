@@ -1,4 +1,4 @@
-# PNAS-Nexus-Associations-WM-auditory-recognition
+# PNAS-Nexus-associations-WM-auditory-recognition
 
 This repository provides the code for the following paper:
 
