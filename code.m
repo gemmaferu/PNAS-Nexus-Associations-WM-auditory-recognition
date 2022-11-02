@@ -10,8 +10,8 @@
 %with visual processing (i.e., inferior temporal, temporal-fusiform, and postcentral gyri) for successful auditory memory recognition.
 
 %If you find this script useful, please cite the following papers:
-%Fernández-Rubio, G., Carlomagno, F., Vuust, P., Kringelbach, M. L., & Bonetti, L. (2022). Associations between abstract working memory abilities and brain activity underlying long-term recognition of auditory sequences.
-%PNAS Nexus. https://doi.org/10.1093/pnasnexus/pgac216
+%Gemma Fernández-Rubio, Francesco Carlomagno, Peter Vuust, Morten L Kringelbach, Leonardo Bonetti, Associations between abstract working memory abilities and brain activity underlying long-term recognition of auditory sequences, 
+%PNAS Nexus, Volume 1, Issue 4, September 2022, pgac216, https://doi.org/10.1093/pnasnexus/pgac216
 %Bonetti, L., Brattico, E., Carlomagno, F., Cabral, J., Stevner, A., Deco, G., Whybrow, P.C., Pearce, M., Pantazis, D., Vuust, P., & Kringelbach, M.L. (2021). Spatiotemporal whole-brain dynamics of auditory patterns recognition. bioRxiv.
 %https://www.biorxiv.org/content/10.1101/2020.06.23.165191v3
 
