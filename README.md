@@ -20,4 +20,4 @@ To use this code, you will need to download:
 
 Please cite the following paper if you find this script useful:
 
-Fernández-Rubio, G., Carlomagno, F., Vuust, P., Kringelbach, M. L., Bonetti, L. Associations between abstract working memory abilities and brain activity underlying long-term recognition of auditory sequences. *PNAS Nexus, 1*(4), pgac216. https://doi.org/10.1093/pnasnexus/pgac216
+Fernández-Rubio, G., Carlomagno, F., Vuust, P., Kringelbach, M. L., Bonetti, L. Associations between abstract working memory abilities and brain activity underlying long-term recognition of auditory sequences. *PNAS Nexus, 1*(4), pgac216. https://doi.org/10.1093/pnasnexus/pgac216.
